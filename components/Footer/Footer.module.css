@@ -1,0 +1,35 @@
+.footer_container {
+  width: 100vw;
+  background: rgb(0, 0, 0);
+  height: 38vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer_socialIcon_container {
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.footer_socialIcon_container div {
+  cursor: pointer;
+}
+.footer_container1 h2 {
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+.footer_socialIcon_container > div {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.footer_container3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.footer_container3 p {
+  margin-top: 4px;
+}
